@@ -65,11 +65,6 @@ https://viewdns.info/
 
 - Multiple tools
 
-[https://domainbigdata.com/](https://domainbigdata.com/)
-
-- Allows host correlation based on site registrant
-- Third-party
-
 [https://whoisology.com/#advanced](https://whoisology.com/#advanced)
 
 - Reverse WHOIS search based on multiple parameters
@@ -92,6 +87,12 @@ https://viewdns.info/
 - Updates quarterly with updated/deleted domains
 - Provides list of registration emails
 - $90 per year for access
+
+[https://domaindata.net/](https://domaindata.net/)
+
+- Largest domain dataset available (850M+ domains)
+- API with many domain related functions
+
 
 [https://networksdb.io/](https://networksdb.io/)
 
